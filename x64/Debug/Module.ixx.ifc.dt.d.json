@@ -1,0 +1,10 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\81704\\desktop\\個人製作\\モジュール作成プロジェクト\\create module project\\module.ixx",
+        "ProvidedModule": "Module",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

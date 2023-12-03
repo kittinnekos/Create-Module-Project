@@ -1,0 +1,9 @@
+﻿  モジュール依存関係のソースをスキャンしています...
+  ImageCommon.ixx
+  コンパイルしています...
+  ImageCommon.ixx
+C:\Users\81704\Desktop\個人製作\モジュール作成プロジェクト\Create Module Project\ImageCommon.ixx(2,26): warning C5201: グローバル モジュール フラグメントが使用されている場合を除き、モジュール宣言は翻訳単位の開始時にのみ指定できます
+  ImageCommon.cpp
+C:\Users\81704\Desktop\個人製作\モジュール作成プロジェクト\Create Module Project\ImageCommon.cpp(2,19): warning C5201: グローバル モジュール フラグメントが使用されている場合を除き、モジュール宣言は翻訳単位の開始時にのみ指定できます
+C:\Users\81704\Desktop\個人製作\モジュール作成プロジェクト\Create Module Project\ImageCommon.cpp(17,16): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+  Create Module Project.vcxproj -> C:\Users\81704\Desktop\個人製作\モジュール作成プロジェクト\Create Module Project\x64\Debug\Create Module Project.exe
