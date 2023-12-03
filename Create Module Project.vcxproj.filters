@@ -21,16 +21,28 @@
       <UniqueIdentifier>{6f39e6a2-ceb5-42c3-8d9e-75a533e2a900}</UniqueIdentifier>
       <Extensions>cpp</Extensions>
     </Filter>
+    <Filter Include="モジュールソース ファイル\画像描画">
+      <UniqueIdentifier>{a7c82c47-58c5-45ec-bad3-c3ff139d1931}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="モジュール ファイル\画像描画">
+      <UniqueIdentifier>{95f0803d-f7a7-49ee-bc7e-95a5ee684b92}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Create Module Project.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
     <ClCompile Include="ImageCommon.ixx">
-      <Filter>モジュール ファイル</Filter>
+      <Filter>モジュール ファイル\画像描画</Filter>
     </ClCompile>
     <ClCompile Include="ImageCommon.cpp">
-      <Filter>モジュールソース ファイル</Filter>
+      <Filter>モジュールソース ファイル\画像描画</Filter>
+    </ClCompile>
+    <ClCompile Include="NoMoveBackGround.ixx">
+      <Filter>モジュール ファイル\画像描画</Filter>
+    </ClCompile>
+    <ClCompile Include="NoMoveBackGround.cpp">
+      <Filter>モジュールソース ファイル\画像描画</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
