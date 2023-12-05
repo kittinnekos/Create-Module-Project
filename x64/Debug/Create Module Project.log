@@ -1,9 +1,58 @@
 ﻿  モジュール依存関係のソースをスキャンしています...
-  ImageCommon.ixx
+  StopProcessing.ixx
+  CollisionDrawString.ixx
+  BackGroundTask.ixx
   コンパイルしています...
-  ImageCommon.ixx
-C:\Users\81704\Desktop\個人製作\モジュール作成プロジェクト\Create Module Project\ImageCommon.ixx(2,26): warning C5201: グローバル モジュール フラグメントが使用されている場合を除き、モジュール宣言は翻訳単位の開始時にのみ指定できます
+  StopProcessing.ixx
+C:\Users\81704\Desktop\個人製作\モジュール作成プロジェクト\Create-Module-Project\StopProcessing.ixx(2,29): warning C5201: グローバル モジュール フラグメントが使用されている場合を除き、モジュール宣言は翻訳単位の開始時にのみ指定できます
+  CollisionDrawString.ixx
+  BackGroundTask.ixx
+C:\Users\81704\Desktop\個人製作\モジュール作成プロジェクト\Create-Module-Project\BackGroundTask.ixx(2,29): warning C5201: グローバル モジュール フラグメントが使用されている場合を除き、モジュール宣言は翻訳単位の開始時にのみ指定できます
+  BackGroundTask.cpp
+C:\Users\81704\Desktop\個人製作\モジュール作成プロジェクト\Create-Module-Project\BackGroundTask.cpp(2,22): warning C5201: グローバル モジュール フラグメントが使用されている場合を除き、モジュール宣言は翻訳単位の開始時にのみ指定できます
+  CollisionDrawString.cpp
+C:\Users\81704\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\81704\Desktop\個人製作\モジュール作成プロジェクト\Create-Module-Project\CollisionDrawString.cpp(2,27): warning C5201: グローバル モジュール フラグメントが使用されている場合を除き、モジュール宣言は翻訳単位の開始時にのみ指定できます
+  Create Module Project.cpp
+C:\Users\81704\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
   ImageCommon.cpp
-C:\Users\81704\Desktop\個人製作\モジュール作成プロジェクト\Create Module Project\ImageCommon.cpp(2,19): warning C5201: グローバル モジュール フラグメントが使用されている場合を除き、モジュール宣言は翻訳単位の開始時にのみ指定できます
-C:\Users\81704\Desktop\個人製作\モジュール作成プロジェクト\Create Module Project\ImageCommon.cpp(17,16): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
-  Create Module Project.vcxproj -> C:\Users\81704\Desktop\個人製作\モジュール作成プロジェクト\Create Module Project\x64\Debug\Create Module Project.exe
+C:\Users\81704\Desktop\個人製作\モジュール作成プロジェクト\Create-Module-Project\ImageCommon.cpp(2,19): warning C5201: グローバル モジュール フラグメントが使用されている場合を除き、モジュール宣言は翻訳単位の開始時にのみ指定できます
+C:\Users\81704\Desktop\個人製作\モジュール作成プロジェクト\Create-Module-Project\ImageCommon.cpp(17,16): warning C4244: '=': 'float' から 'int' への変換です。データが失われる可能性があります。
+  LengthScrollBG.cpp
+C:\Users\81704\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\81704\Desktop\個人製作\モジュール作成プロジェクト\Create-Module-Project\LengthScrollBG.cpp(3,22): warning C5201: グローバル モジュール フラグメントが使用されている場合を除き、モジュール宣言は翻訳単位の開始時にのみ指定できます
+C:\Users\81704\Desktop\個人製作\モジュール作成プロジェクト\Create-Module-Project\LengthScrollBG.cpp(37,51): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\81704\Desktop\個人製作\モジュール作成プロジェクト\Create-Module-Project\LengthScrollBG.cpp(37,37): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\81704\Desktop\個人製作\モジュール作成プロジェクト\Create-Module-Project\LengthScrollBG.cpp(37,23): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\81704\Desktop\個人製作\モジュール作成プロジェクト\Create-Module-Project\LengthScrollBG.cpp(37,18): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\81704\Desktop\個人製作\モジュール作成プロジェクト\Create-Module-Project\LengthScrollBG.cpp(42,62): warning C4244: '+=': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\81704\Desktop\個人製作\モジュール作成プロジェクト\Create-Module-Project\LengthScrollBG.cpp(42,44): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\81704\Desktop\個人製作\モジュール作成プロジェクト\Create-Module-Project\LengthScrollBG.cpp(42,37): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\81704\Desktop\個人製作\モジュール作成プロジェクト\Create-Module-Project\LengthScrollBG.cpp(42,23): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\81704\Desktop\個人製作\モジュール作成プロジェクト\Create-Module-Project\LengthScrollBG.cpp(42,18): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  NoMoveBackGround.cpp
+C:\Users\81704\DxLib_VC\プロジェクトに追加すべきファイル_VC用\DxLib.h(3344,1): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+C:\Users\81704\Desktop\個人製作\モジュール作成プロジェクト\Create-Module-Project\NoMoveBackGround.cpp(3,24): warning C5201: グローバル モジュール フラグメントが使用されている場合を除き、モジュール宣言は翻訳単位の開始時にのみ指定できます
+C:\Users\81704\Desktop\個人製作\モジュール作成プロジェクト\Create-Module-Project\NoMoveBackGround.cpp(17,23): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\81704\Desktop\個人製作\モジュール作成プロジェクト\Create-Module-Project\NoMoveBackGround.cpp(17,20): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\81704\Desktop\個人製作\モジュール作成プロジェクト\Create-Module-Project\NoMoveBackGround.cpp(18,23): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\81704\Desktop\個人製作\モジュール作成プロジェクト\Create-Module-Project\NoMoveBackGround.cpp(18,16): warning C4244: '引数': 'int' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\81704\Desktop\個人製作\モジュール作成プロジェクト\Create-Module-Project\NoMoveBackGround.cpp(36,31): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\81704\Desktop\個人製作\モジュール作成プロジェクト\Create-Module-Project\NoMoveBackGround.cpp(36,24): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\81704\Desktop\個人製作\モジュール作成プロジェクト\Create-Module-Project\NoMoveBackGround.cpp(36,21): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\81704\Desktop\個人製作\モジュール作成プロジェクト\Create-Module-Project\NoMoveBackGround.cpp(36,18): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\tuple(640,76): warning C4244: '=': '_Ty' から '_Ty' への変換です。データが失われる可能性があります。
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              _Ty=float
+          ]
+C:\Users\81704\Desktop\個人製作\モジュール作成プロジェクト\Create-Module-Project\NoMoveBackGround.cpp(11,12): message : コンパイル対象の関数 テンプレート インスタンス化 'std::tuple<float,float> &std::tuple<float,float>::operator =<int,int,0>(std::tuple<int,int> &&) noexcept' のリファレンスを確認してください
+C:\Users\81704\Desktop\個人製作\モジュール作成プロジェクト\Create-Module-Project\NoMoveBackGround.cpp(11,12): message : 'NoMoveBackGround::NoMoveBackGround' の 'std::tuple<float,float>::operator =' への最初の参照を参照してください
+  StopProcessing.cpp
+C:\Users\81704\Desktop\個人製作\モジュール作成プロジェクト\Create-Module-Project\StopProcessing.cpp(3,22): warning C5201: グローバル モジュール フラグメントが使用されている場合を除き、モジュール宣言は翻訳単位の開始時にのみ指定できます
+  コードを生成中...
+  Create Module Project.vcxproj -> C:\Users\81704\Desktop\個人製作\モジュール作成プロジェクト\Create-Module-Project\x64\Debug\Create Module Project.exe

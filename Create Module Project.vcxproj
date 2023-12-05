@@ -143,6 +143,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BackGroundTask.cpp" />
+    <ClCompile Include="BackGroundTask.ixx" />
+    <ClCompile Include="CollisionDrawString.cpp" />
+    <ClCompile Include="CollisionDrawString.ixx" />
     <ClCompile Include="Create Module Project.cpp" />
     <ClCompile Include="ImageCommon.cpp" />
     <ClCompile Include="ImageCommon.ixx" />
@@ -150,6 +154,8 @@
     <ClCompile Include="LengthScrollBG.ixx" />
     <ClCompile Include="NoMoveBackGround.cpp" />
     <ClCompile Include="NoMoveBackGround.ixx" />
+    <ClCompile Include="StopProcessing.cpp" />
+    <ClCompile Include="StopProcessing.ixx" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

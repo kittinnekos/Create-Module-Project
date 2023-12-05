@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\81704\\desktop\\個人製作\\モジュール作成プロジェクト\\create-module-project\\collisiondrawstring.ixx",
+        "ProvidedModule": "CollisionDrawString",
+        "Includes": [],
+        "ImportedModules": [
+            {
+                "Name": "StopProcessing",
+                "BMI": "C:\\Users\\81704\\Desktop\\個人製作\\モジュール作成プロジェクト\\Create-Module-Project\\x64\\Debug\\StopProcessing.ixx.ifc"
+            }
+        ],
+        "ImportedHeaderUnits": []
+    }
+}

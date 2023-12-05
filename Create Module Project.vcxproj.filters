@@ -27,6 +27,12 @@
     <Filter Include="モジュール ファイル\画像描画">
       <UniqueIdentifier>{95f0803d-f7a7-49ee-bc7e-95a5ee684b92}</UniqueIdentifier>
     </Filter>
+    <Filter Include="モジュール ファイル\バックグラウンド処理">
+      <UniqueIdentifier>{ef1dc1f0-5a12-474d-a6a8-4720cc1b4333}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="モジュールソース ファイル\バックグラウンド処理">
+      <UniqueIdentifier>{adff8060-d3b0-4e8c-94f2-3abecbd994cb}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Create Module Project.cpp">
@@ -49,6 +55,24 @@
     </ClCompile>
     <ClCompile Include="LengthScrollBG.cpp">
       <Filter>モジュールソース ファイル\画像描画</Filter>
+    </ClCompile>
+    <ClCompile Include="BackGroundTask.ixx">
+      <Filter>モジュール ファイル\バックグラウンド処理</Filter>
+    </ClCompile>
+    <ClCompile Include="BackGroundTask.cpp">
+      <Filter>モジュールソース ファイル\バックグラウンド処理</Filter>
+    </ClCompile>
+    <ClCompile Include="StopProcessing.cpp">
+      <Filter>モジュールソース ファイル\バックグラウンド処理</Filter>
+    </ClCompile>
+    <ClCompile Include="StopProcessing.ixx">
+      <Filter>モジュール ファイル\バックグラウンド処理</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionDrawString.ixx">
+      <Filter>モジュール ファイル\バックグラウンド処理</Filter>
+    </ClCompile>
+    <ClCompile Include="CollisionDrawString.cpp">
+      <Filter>モジュールソース ファイル\バックグラウンド処理</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

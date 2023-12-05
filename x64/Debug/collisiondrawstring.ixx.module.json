@@ -1,0 +1,26 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\CollisionDrawString.ixx.obj",
+            "outputs": [
+                "C:\\Users\\81704\\Desktop\\個人製作\\モジュール作成プロジェクト\\Create-Module-Project\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\81704\\Desktop\\個人製作\\モジュール作成プロジェクト\\Create-Module-Project\\x64\\Debug\\CollisionDrawString.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "CollisionDrawString",
+                    "source-path": "c:\\users\\81704\\desktop\\個人製作\\モジュール作成プロジェクト\\create-module-project\\collisiondrawstring.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "StopProcessing"
+                }
+            ]
+        }
+    ]
+}
