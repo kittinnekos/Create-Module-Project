@@ -44,5 +44,11 @@
     <ClCompile Include="NoMoveBackGround.cpp">
       <Filter>モジュールソース ファイル\画像描画</Filter>
     </ClCompile>
+    <ClCompile Include="LengthScrollBG.ixx">
+      <Filter>モジュール ファイル\画像描画</Filter>
+    </ClCompile>
+    <ClCompile Include="LengthScrollBG.cpp">
+      <Filter>モジュールソース ファイル\画像描画</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

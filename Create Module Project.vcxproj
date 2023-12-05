@@ -146,6 +146,8 @@
     <ClCompile Include="Create Module Project.cpp" />
     <ClCompile Include="ImageCommon.cpp" />
     <ClCompile Include="ImageCommon.ixx" />
+    <ClCompile Include="LengthScrollBG.cpp" />
+    <ClCompile Include="LengthScrollBG.ixx" />
     <ClCompile Include="NoMoveBackGround.cpp" />
     <ClCompile Include="NoMoveBackGround.ixx" />
   </ItemGroup>
